@@ -6,4 +6,4 @@
 	url = https://github.com/OpenZeppelin/openzeppelin-contracts
 [submodule "lib/mock-contracts"]
 	path = lib/mock-contracts
-	url = https://github.com/buttonwood-protocol/mock-contracts
+	url = https://github.com/LastL2/mock-contracts
